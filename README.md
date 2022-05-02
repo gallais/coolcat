@@ -1,0 +1,2 @@
+# coolcat
+not a wiki
